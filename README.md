@@ -2,14 +2,14 @@
 # Objective:-
 - ##### In this project I have examine the dataset with SQL and help the store understand its business growth.
 ## Features -
-##### 1. User interactive Presentation, can be seen in my repository 
+##### 1. User interactive Presentation, can be seen in my repository.
 ##### 2. Who is the senior most employee based on job title? 
 
 ##### 3. Which countries have the most Invoices? 
 ##### 4. What are top 3 values of total invoice?
 ##### 5. Which city has the best customers? We would like to throw a promotional Music Festival in the city we made the most money. 
 Write a query that returns one city that has the highest sum of invoice totals. 
-Return both the city name & sum of all invoice totals
+Return both the city name & sum of all invoice totals.
 ##### 6. Who is the best customer? The customer who has spent the most money will be declared the best customer. 
 Write a query that returns the person who has spent the most money.
 ##### 7. Write query to return the email, first name, last name, & Genre of all Rock Music listeners. 
