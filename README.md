@@ -1,6 +1,9 @@
 # Music Store Data Analysis
 # Objective:-
 ##### In this project I have examine the dataset with SQL and help the store understand its business growth.
+# Database and Tools
+Postgre SQL
+PgAdmin4
 ## Features -
 ##### 1. User interactive Presentation, can be seen in my repository.
 ##### 2. Who is the senior most employee based on job title? 
