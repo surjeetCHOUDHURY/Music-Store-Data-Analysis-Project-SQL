@@ -31,5 +31,5 @@ For countries where the top amount spent is shared, provide all customers who sp
 ## Tech Stack Used 
 ![SQL](https://img.icons8.com/arcade/256/sql.png)
 ![Excel](https://img.icons8.com/color/256/microsoft-excel-2019.png)
-## DATA OVERVIEW
+## Schema Diagram
 ![sql ](https://github.com/user-attachments/assets/bcfc0b8d-9bbf-4b63-a7ca-7a38ee81f243)
